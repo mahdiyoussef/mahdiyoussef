@@ -44,11 +44,11 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/youssefmahdi"><img src="https://img.shields.io/badge/-Youssef%20Mahdi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mryoussefmahdi"><img src="https://img.shields.io/badge/-mryoussefmahdi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hello@youssefmahdi.com"><img src="https://img.shields.io/badge/-hello@youssefmahdi.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
 ---
 Credit: [mahdiyoussef](https://github.com/mahdiyoussef)
 
-Last Updated On: 13/06/2021
+Last Updated On: 11/10/2026
